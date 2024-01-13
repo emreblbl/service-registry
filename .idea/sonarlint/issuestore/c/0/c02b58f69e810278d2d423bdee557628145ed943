@@ -1,0 +1,11 @@
+
+m
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(…şÛìûÿÿÿÿ8Ñ¶îĞ1
+7
+java:S1220""Move this file to a named package.8Ñ¶îĞ1
+L	java:S106 "+Replace this use of System.out by a logger.(í¿Óêüÿÿÿÿ8Ø¶îĞ1
+\
+java:S2274*":Remove this call to "wait" or move it into a "while" loop.(Åı¤üÿÿÿÿ8Ú¶îĞ1
+z	java:S1314"YComplete cases by adding the missing enum constants or add a default case to this switch.(…şÛìûÿÿÿÿ8Ú¶îĞ1
+L	java:S1067"+Replace this use of System.out by a logger.(Ö®¾ÿÿÿÿÿ8Û¶îĞ1
+G	java:S106:"+Replace this use of System.out by a logger.(ç»è—8Û¶îĞ1
